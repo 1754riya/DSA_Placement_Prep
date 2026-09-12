@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -13,4 +14,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
