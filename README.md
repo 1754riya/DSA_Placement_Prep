@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0326-power-of-three) |
+## Array
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1773-count-items-matching-a-rule) |
+## String
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
