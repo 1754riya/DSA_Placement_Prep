@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1470-shuffle-the-array](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1470-shuffle-the-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1773-count-items-matching-a-rule](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1773-count-items-matching-a-rule) |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Simulation
+|  |
+| ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0985-sum-of-even-numbers-after-queries) |
 <!---LeetCode Topics End-->
