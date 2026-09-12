@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1470-shuffle-the-array) |
 | [1773-count-items-matching-a-rule](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1773-count-items-matching-a-rule) |
 ## String
 |  |
