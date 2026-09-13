@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0680-valid-palindrome-ii) |
+| [1332-remove-palindromic-subsequences](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1332-remove-palindromic-subsequences) |
 | [1773-count-items-matching-a-rule](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1773-count-items-matching-a-rule) |
 ## Prefix Sum
 |  |
@@ -67,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0680-valid-palindrome-ii) |
+| [1332-remove-palindromic-subsequences](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1332-remove-palindromic-subsequences) |
 <!---LeetCode Topics End-->
