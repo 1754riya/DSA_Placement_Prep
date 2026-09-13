@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0621-task-scheduler) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1470-shuffle-the-array](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1470-shuffle-the-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -37,4 +38,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0985-sum-of-even-numbers-after-queries) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
