@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0005-longest-palindromic-substring) |
 | [0409-longest-palindrome](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0409-longest-palindrome) |
+| [0647-palindromic-substrings](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0680-valid-palindrome-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1332-remove-palindromic-subsequences) |
 | [1773-count-items-matching-a-rule](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1773-count-items-matching-a-rule) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0680-valid-palindrome-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1332-remove-palindromic-subsequences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/1754riya/DSA_Placement_Prep/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
 | ------- |
