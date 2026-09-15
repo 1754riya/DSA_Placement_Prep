@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0005-longest-palindromic-substring) |
 | [0409-longest-palindrome](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0680-valid-palindrome-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1332-remove-palindromic-subsequences) |
@@ -69,7 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0005-longest-palindromic-substring) |
 | [0680-valid-palindrome-ii](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0680-valid-palindrome-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1332-remove-palindromic-subsequences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/1754riya/DSA_Placement_Prep/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
