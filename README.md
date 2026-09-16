@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0326-power-of-three) |
+| [1518-water-bottles](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1518-water-bottles) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1518-water-bottles](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1518-water-bottles) |
 ## Hash Table
 |  |
 | ------- |
