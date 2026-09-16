@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0860-lemonade-change) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0621-task-scheduler) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0055-jump-game) |
 | [0647-palindromic-substrings](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0647-palindromic-substrings) |
 ## Manacher
