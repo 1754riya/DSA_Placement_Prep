@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0860-lemonade-change) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1470-shuffle-the-array](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1470-shuffle-the-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/1754riya/DSA_Placement_Prep/tree/master/0860-lemonade-change) |
 | [1328-break-a-palindrome](https://github.com/1754riya/DSA_Placement_Prep/tree/master/1328-break-a-palindrome) |
 ## Sorting
 |  |
